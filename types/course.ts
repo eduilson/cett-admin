@@ -1,0 +1,45 @@
+"use strict"
+
+import {CourseState} from "./courseState";
+import {CourseCategory} from "./courseCategory";
+
+export type Course = {
+    id: number,
+    course_scope_id: number,
+    course_category_id: number,
+    course_states: CourseState[],
+    course_category: CourseCategory,
+    slug: string,
+    name: string,
+    thumbnail: string,
+    image: string,
+    student_guide: string,
+    navigability_guide: string,
+    excerpt: string,
+    content: string,
+    price: string,
+    special_price: string,
+    special_price_start: string,
+    special_price_end: string,
+    has_module_evaluation: boolean,
+    score_module_evaluation: number,
+    module_evaluation_questions_count: number,
+    max_time_module_evaluation: number,
+    is_module_block: boolean,
+    has_course_evaluation: boolean,
+    max_time_course_evaluation: number,
+    score_course_evaluation: number,
+    course_evaluation_questions_count: number,
+    has_certificate: boolean,
+    certificate: string,
+    certificate_block: boolean,
+    max_time: number,
+    completion_time: number,
+    workload: number,
+    face_recognition: boolean,
+    sort_order: number,
+    status: boolean,
+    created_at: string,
+    updated_at: string,
+
+}

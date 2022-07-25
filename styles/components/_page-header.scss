@@ -1,0 +1,13 @@
+.page-header{
+  border-bottom: 1px solid transparent;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: background-color 500ms;
+
+  &--sticky{
+    background-color: rgba(#fff, .8);
+    border-bottom-color: #f0f2f5;
+  }
+}

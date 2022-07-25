@@ -1,0 +1,23 @@
+.ant-drawer.upload {
+
+  .ant-drawer-body{
+    padding: 0;
+  }
+
+  .ant-table-cell {
+    img {
+      height: 100px;
+      object-fit: contain;
+      width: 200px;
+    }
+  }
+
+  .ant-drawer-footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .ant-table-pagination.ant-pagination{
+    padding: 0 1rem;
+  }
+}

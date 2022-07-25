@@ -1,0 +1,6 @@
+.ant-table-filter-column-title,
+.ant-table-tbody > tr > td{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

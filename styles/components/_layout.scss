@@ -1,0 +1,93 @@
+.admin-root{
+  min-height: 100vh;
+
+  .logout{
+    color: #fff;
+    margin-left: auto;
+  }
+
+  .uow-sidebar{
+    overflow: hidden;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+
+    &:hover{
+      overflow: auto;
+    }
+
+    .menu{
+      margin-bottom: 5rem;
+      user-select: none;
+
+      .menu__title{
+        display: flex;
+        padding: 1rem 0;
+        border-bottom: 2px solid #f0f2f5;
+      }
+
+      .ant-menu-item .ant-badge a{
+        padding-right: 1rem;
+      }
+    }
+  }
+
+  .header{
+    align-items: center;
+    background-color: #2a2a2a;
+    display: flex;
+    margin-left: 240px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    &.collapsed{
+      margin-left: 0;
+    }
+
+    .menu-toggle{
+      align-items: center;
+      background-color: #2a2a2a;
+      display: flex;
+      height: 64px;
+      padding: 1rem;
+
+      .anticon{
+        color: #fff;
+        font-size: 1.2rem;
+        cursor: pointer;
+      }
+    }
+
+    &__title{
+      color: #fff;
+      font-size: 1.5rem;
+      margin-right: 1rem;
+    }
+
+    & .breadcrumb{
+
+      &, & > span{
+        display: flex;
+      }
+
+      &__item, &__separator, &__link{
+        color: #fff;
+      }
+    }
+
+  }
+
+  .content{
+    padding: 0 1rem 1rem;
+    margin-left: 240px;
+
+    &.collapsed{
+      margin-left: 0;
+    }
+  }
+
+  .footer{
+    text-align: center;
+    margin-left: 240px;
+  }
+}

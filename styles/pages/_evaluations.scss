@@ -1,0 +1,55 @@
+.responses{
+
+  .ant-radio-disabled + span{
+    cursor: auto;
+    color: rgba(0, 0, 0, 0.85);
+  }
+
+  &-item{
+
+    &--incorrect{
+      .ant-radio-checked .ant-radio-inner{
+        border-color: #f11e3f;
+        &::after{
+          background-color: #f11e3f;
+        }
+      }
+    }
+
+    &--correct{
+      .ant-radio-checked .ant-radio-inner{
+        border-color: #1aaf54;
+        &::after{
+          background-color: #1aaf54;
+        }
+      }
+    }
+
+    .ant-form-item-label label{
+      height: auto;
+    }
+
+    .ant-form-item-control{
+      margin: 1rem 0 1rem 1rem;
+
+      .ant-radio-group{
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+    &-label{
+      display: flex;
+
+      .question-count{
+        margin-right: .5rem;
+      }
+
+      .question-text{
+        p:last-child{
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,709 @@
+{
+    "listaBancos": [
+        {
+            "id_banco": 103988,
+            "banco": "Banco ABC Brasil S.A.",
+            "Compensacao": "246",
+            "Homepage": "www.abcbrasil.com.br"
+        },
+        {
+            "id_banco": 105587,
+            "banco": "Banco ABN AMRO S.A.",
+            "Compensacao": "075",
+            "Homepage": "www.abnamro.com"
+        },
+        {
+            "id_banco": 105541,
+            "banco": "Banco Agibank S.A.",
+            "Compensacao": "121",
+            "Homepage": "www.agibank.com.br"
+        },
+        {
+            "id_banco": 103999,
+            "banco": "Banco Alfa S.A.",
+            "Compensacao": "025",
+            "Homepage": "www.bancoalfa.com.br"
+        },
+        {
+            "id_banco": 104678,
+            "banco": "Banco Andbank (Brasil) S.A.",
+            "Compensacao": "065",
+            "Homepage": "www.andbank-lla.com.br"
+        },
+        {
+            "id_banco": 105447,
+            "banco": "Banco B3 S.A.",
+            "Compensacao": "096",
+            "Homepage": "www.bmfbovespa.com.br/bancobmfbovespa/"
+        },
+        {
+            "id_banco": 103928,
+            "banco": "Banco BANDEPE S.A.",
+            "Compensacao": "024",
+            "Homepage": "www.santander.com.br"
+        },
+        {
+            "id_banco": 104001,
+            "banco": "Banco BMG S.A.",
+            "Compensacao": "318",
+            "Homepage": "www.bancobmg.com.br"
+        },
+        {
+            "id_banco": 104076,
+            "banco": "Banco BNP Paribas Brasil S.A.",
+            "Compensacao": "752",
+            "Homepage": "www.bnpparibas.com.br"
+        },
+        {
+            "id_banco": 103954,
+            "banco": "Banco BOCOM BBM S.A.",
+            "Compensacao": "107",
+            "Homepage": "www.bancobbm.com.br"
+        },
+        {
+            "id_banco": 104976,
+            "banco": "Banco Bradescard S.A.",
+            "Compensacao": "063",
+            "Homepage": "www.ibi.com.br"
+        },
+        {
+            "id_banco": 103937,
+            "banco": "Banco Bradesco BBI S.A.",
+            "Compensacao": "036",
+            "Homepage": "Não possui site"
+        },
+        {
+            "id_banco": 104014,
+            "banco": "Banco Bradesco Financiamentos S.A.",
+            "Compensacao": "394",
+            "Homepage": "não tem site"
+        },
+        {
+            "id_banco": 103984,
+            "banco": "Banco Bradesco S.A.",
+            "Compensacao": "237",
+            "Homepage": "www.bradesco.com.br"
+        },
+        {
+            "id_banco": 103973,
+            "banco": "Banco BS2 S.A.",
+            "Compensacao": "218",
+            "Homepage": "www.bs2.com/banco/"
+        },
+        {
+            "id_banco": 103965,
+            "banco": "Banco BTG Pactual S.A.",
+            "Compensacao": "208",
+            "Homepage": "www.btgpactual.com"
+        },
+        {
+            "id_banco": 104044,
+            "banco": "Banco C6 Consignado S.A.",
+            "Compensacao": "626",
+            "Homepage": "https://www.c6consig.com.br/"
+        },
+        {
+            "id_banco": 105904,
+            "banco": "Banco C6 S.A.",
+            "Compensacao": "",
+            "Homepage": "https://www.c6bank.com/"
+        },
+        {
+            "id_banco": 105526,
+            "banco": "Banco Caixa Geral - Brasil S.A.",
+            "Compensacao": "473",
+            "Homepage": "www.bcgbrasil.com.br"
+        },
+        {
+            "id_banco": 103941,
+            "banco": "Banco Cargill S.A.",
+            "Compensacao": "040",
+            "Homepage": "www.bancocargill.com.br"
+        },
+        {
+            "id_banco": 105582,
+            "banco": "Banco Caterpillar S.A.",
+            "Compensacao": "",
+            "Homepage": "www.catfinancial.com.br"
+        },
+        {
+            "id_banco": 104065,
+            "banco": "Banco Cetelem S.A.",
+            "Compensacao": "739",
+            "Homepage": "www.cetelem.com.br"
+        },
+        {
+            "id_banco": 103982,
+            "banco": "Banco Cifra S.A.",
+            "Compensacao": "233",
+            "Homepage": "www.bancocifra.com.br"
+        },
+        {
+            "id_banco": 104070,
+            "banco": "Banco Citibank S.A.",
+            "Compensacao": "745",
+            "Homepage": "www.citibank.com.br"
+        },
+        {
+            "id_banco": 104095,
+            "banco": "Banco CNH Industrial Capital S.A.",
+            "Compensacao": "",
+            "Homepage": "www.cnhindustrialcapital.com"
+        },
+        {
+            "id_banco": 104079,
+            "banco": "Banco Cooperativo do Brasil S.A. - BANCOOB",
+            "Compensacao": "756",
+            "Homepage": "www.bancoob.com.br"
+        },
+        {
+            "id_banco": 104073,
+            "banco": "Banco Cooperativo Sicredi S.A.",
+            "Compensacao": "748",
+            "Homepage": "www.sicredi.com.br"
+        },
+        {
+            "id_banco": 103975,
+            "banco": "Banco Credit Agricole Brasil S.A.",
+            "Compensacao": "222",
+            "Homepage": "www.calyon.com.br"
+        },
+        {
+            "id_banco": 104035,
+            "banco": "Banco Credit Suisse (Brasil) S.A.",
+            "Compensacao": "505",
+            "Homepage": "www.csfb.com"
+        },
+        {
+            "id_banco": 105492,
+            "banco": "Banco CSF S.A.",
+            "Compensacao": "",
+            "Homepage": ""
+        },
+        {
+            "id_banco": 103923,
+            "banco": "Banco da Amazônia S.A.",
+            "Compensacao": "003",
+            "Homepage": "www.bancoamazonia.com.br"
+        },
+        {
+            "id_banco": 105532,
+            "banco": "Banco da China Brasil S.A.",
+            "Compensacao": "083",
+            "Homepage": "www.boc-brazil.com"
+        },
+        {
+            "id_banco": 104057,
+            "banco": "Banco Daycoval S.A.",
+            "Compensacao": "707",
+            "Homepage": "www.daycoval.com.br"
+        },
+        {
+            "id_banco": 104926,
+            "banco": "Banco de Lage Landen Brasil S.A.",
+            "Compensacao": "",
+            "Homepage": "www.dllgroup.com"
+        },
+        {
+            "id_banco": 104054,
+            "banco": "Banco Digimais S.A.",
+            "Compensacao": "654",
+            "Homepage": "www.bancodigimais.com.br/"
+        },
+        {
+            "id_banco": 105642,
+            "banco": "Banco Digio S.A.",
+            "Compensacao": "",
+            "Homepage": "www.aebb.com.br"
+        },
+        {
+            "id_banco": 103922,
+            "banco": "Banco do Brasil S.A.",
+            "Compensacao": "001",
+            "Homepage": "www.bb.com.br"
+        },
+        {
+            "id_banco": 103944,
+            "banco": "Banco do Estado de Sergipe S.A.",
+            "Compensacao": "047",
+            "Homepage": "www.banese.com.br"
+        },
+        {
+            "id_banco": 103938,
+            "banco": "Banco do Estado do Pará S.A.",
+            "Compensacao": "037",
+            "Homepage": "www.banpara.b.br"
+        },
+        {
+            "id_banco": 103942,
+            "banco": "Banco do Estado do Rio Grande do Sul S.A.",
+            "Compensacao": "041",
+            "Homepage": "www.banrisul.com.br"
+        },
+        {
+            "id_banco": 103924,
+            "banco": "Banco do Nordeste do Brasil S.A.",
+            "Compensacao": "004",
+            "Homepage": "www.banconordeste.gov.br"
+        },
+        {
+            "id_banco": 103976,
+            "banco": "Banco Fibra S.A.",
+            "Compensacao": "224",
+            "Homepage": "www.bancofibra.com.br"
+        },
+        {
+            "id_banco": 104920,
+            "banco": "Banco Fidis S.A.",
+            "Compensacao": "",
+            "Homepage": "www.bancofidis.com.br"
+        },
+        {
+            "id_banco": 105553,
+            "banco": "Banco Finaxis S.A.",
+            "Compensacao": "094",
+            "Homepage": "www.bancofinaxis.com.br"
+        },
+        {
+            "id_banco": 104094,
+            "banco": "Banco Ford S.A.",
+            "Compensacao": "",
+            "Homepage": "www.bancoford.com.br"
+        },
+        {
+            "id_banco": 105581,
+            "banco": "Banco Genial S.A.",
+            "Compensacao": "125",
+            "Homepage": "www.bancogenial.com"
+        },
+        {
+            "id_banco": 104971,
+            "banco": "Banco GM S.A.",
+            "Compensacao": "",
+            "Homepage": "www.chevroletsf.com.br"
+        },
+        {
+            "id_banco": 104040,
+            "banco": "Banco Guanabara S.A.",
+            "Compensacao": "612",
+            "Homepage": "www.bancoguanabara.com.br"
+        },
+        {
+            "id_banco": 105454,
+            "banco": "Banco IBM S.A.",
+            "Compensacao": "",
+            "Homepage": "www.ibm.com/financing/br"
+        },
+        {
+            "id_banco": 105506,
+            "banco": "Banco Inbursa S.A.",
+            "Compensacao": "012",
+            "Homepage": "www.bancoinbursa.com"
+        },
+        {
+            "id_banco": 104037,
+            "banco": "Banco Industrial do Brasil S.A.",
+            "Compensacao": "604",
+            "Homepage": "www.bancoindustrial.com.br"
+        },
+        {
+            "id_banco": 105515,
+            "banco": "Banco Inter S.A.",
+            "Compensacao": "077",
+            "Homepage": "www.bancointer.com.br"
+        },
+        {
+            "id_banco": 104923,
+            "banco": "Banco Investcred Unibanco S.A.",
+            "Compensacao": "249",
+            "Homepage": "Não possui site"
+        },
+        {
+            "id_banco": 103945,
+            "banco": "Banco Itaú BBA S.A.",
+            "Compensacao": "184",
+            "Homepage": "www.itaubba.com.br"
+        },
+        {
+            "id_banco": 103931,
+            "banco": "Banco Itaú Consignado S.A.",
+            "Compensacao": "029",
+            "Homepage": ""
+        },
+        {
+            "id_banco": 104090,
+            "banco": "Banco Itaú Veículos S.A.",
+            "Compensacao": "",
+            "Homepage": "www.bancofiat.com.br"
+        },
+        {
+            "id_banco": 104025,
+            "banco": "Banco ItauBank S.A",
+            "Compensacao": "479",
+            "Homepage": "www.itaubank.com.br"
+        },
+        {
+            "id_banco": 105524,
+            "banco": "Banco Itaucard S.A.",
+            "Compensacao": "",
+            "Homepage": "www.itau.com.br"
+        },
+        {
+            "id_banco": 105540,
+            "banco": "Banco Itauleasing S.A.",
+            "Compensacao": "",
+            "Homepage": "www.itau.com.br"
+        },
+        {
+            "id_banco": 104011,
+            "banco": "Banco J. P. Morgan S.A.",
+            "Compensacao": "376",
+            "Homepage": "www.jpmorgan.com"
+        },
+        {
+            "id_banco": 103943,
+            "banco": "Banco J. Safra S.A.",
+            "Compensacao": "074",
+            "Homepage": "www.safra.com.br"
+        },
+        {
+            "id_banco": 103972,
+            "banco": "Banco John Deere S.A.",
+            "Compensacao": "217",
+            "Homepage": "www.johndeere.com.br"
+        },
+        {
+            "id_banco": 104045,
+            "banco": "Banco Letsbank S.A.",
+            "Compensacao": "630",
+            "Homepage": "www.letsbank.com.br"
+        },
+        {
+            "id_banco": 104036,
+            "banco": "Banco Luso Brasileiro S.A.",
+            "Compensacao": "600",
+            "Homepage": "www.lusobrasileiro.com.br"
+        },
+        {
+            "id_banco": 103986,
+            "banco": "Banco Master S.A.",
+            "Compensacao": "243",
+            "Homepage": "www.bancomaster.com.br"
+        },
+        {
+            "id_banco": 104012,
+            "banco": "Banco Mercantil do Brasil S.A.",
+            "Compensacao": "389",
+            "Homepage": "www.mercantil.com.br"
+        },
+        {
+            "id_banco": 104918,
+            "banco": "Banco Mizuho do Brasil S.A.",
+            "Compensacao": "370",
+            "Homepage": "www.mizuhobank.com/brazil/pt/"
+        },
+        {
+            "id_banco": 104071,
+            "banco": "Banco Modal S.A.",
+            "Compensacao": "746",
+            "Homepage": "www.bancomodal.com.br"
+        },
+        {
+            "id_banco": 104020,
+            "banco": "Banco MUFG Brasil S.A.",
+            "Compensacao": "456",
+            "Homepage": "www.br.bk.mufg.jp"
+        },
+        {
+            "id_banco": 105643,
+            "banco": "Banco Olé Bonsucesso Consignado S.A.",
+            "Compensacao": "169",
+            "Homepage": "www.oleconsignado.com.br"
+        },
+        {
+            "id_banco": 103968,
+            "banco": "Banco Original S.A.",
+            "Compensacao": "212",
+            "Homepage": "www.original.com.br"
+        },
+        {
+            "id_banco": 104042,
+            "banco": "Banco PAN S.A.",
+            "Compensacao": "623",
+            "Homepage": "www.bancopan.com.br"
+        },
+        {
+            "id_banco": 104039,
+            "banco": "Banco Paulista S.A.",
+            "Compensacao": "611",
+            "Homepage": "www.bancopaulista.com.br"
+        },
+        {
+            "id_banco": 104051,
+            "banco": "Banco Pine S.A.",
+            "Compensacao": "643",
+            "Homepage": "www.pine.com"
+        },
+        {
+            "id_banco": 104072,
+            "banco": "Banco Rabobank International Brasil S.A.",
+            "Compensacao": "747",
+            "Homepage": "www.rabobank.com.br"
+        },
+        {
+            "id_banco": 105664,
+            "banco": "Banco RCI Brasil S.A.",
+            "Compensacao": "",
+            "Homepage": "www.bancorenault.com.br"
+        },
+        {
+            "id_banco": 104046,
+            "banco": "Banco Rendimento S.A.",
+            "Compensacao": "633",
+            "Homepage": "www.rendimento.com.br"
+        },
+        {
+            "id_banco": 104088,
+            "banco": "Banco Rodobens S.A.",
+            "Compensacao": "120",
+            "Homepage": "www.rodobens.com.br"
+        },
+        {
+            "id_banco": 104018,
+            "banco": "Banco Safra S.A.",
+            "Compensacao": "422",
+            "Homepage": "www.safra.com.br"
+        },
+        {
+            "id_banco": 103925,
+            "banco": "Banco Santander  (Brasil)  S.A.",
+            "Compensacao": "033",
+            "Homepage": "www.santander.com.br"
+        },
+        {
+            "id_banco": 104068,
+            "banco": "Banco Semear S.A.",
+            "Compensacao": "743",
+            "Homepage": "www.bancosemear.com.br"
+        },
+        {
+            "id_banco": 105916,
+            "banco": "Banco Senff S.A.",
+            "Compensacao": "276",
+            "Homepage": "https://www.senff.com.br/"
+        },
+        {
+            "id_banco": 104924,
+            "banco": "Banco Société Générale Brasil S.A.",
+            "Compensacao": "366",
+            "Homepage": "www.sgbrasil.com.br"
+        },
+        {
+            "id_banco": 105917,
+            "banco": "Banco Sorocred S.A. - Banco Múltiplo (AFINZ)",
+            "Compensacao": "299",
+            "Homepage": "afinz.com.br"
+        },
+        {
+            "id_banco": 104021,
+            "banco": "Banco Sumitomo Mitsui Brasileiro S.A.",
+            "Compensacao": "464",
+            "Homepage": "www.smbcgroup.com.br"
+        },
+        {
+            "id_banco": 105525,
+            "banco": "Banco Topázio S.A.",
+            "Compensacao": "082",
+            "Homepage": "www.bancotopazio.com.br"
+        },
+        {
+            "id_banco": 104096,
+            "banco": "Banco Toyota do Brasil S.A.",
+            "Compensacao": "",
+            "Homepage": "www.bancotoyota.com.br"
+        },
+        {
+            "id_banco": 104047,
+            "banco": "Banco Triângulo S.A.",
+            "Compensacao": "634",
+            "Homepage": "www.tribanco.com.br"
+        },
+        {
+            "id_banco": 104053,
+            "banco": "Banco Voiter S.A.",
+            "Compensacao": "653",
+            "Homepage": "www.voiter.com"
+        },
+        {
+            "id_banco": 104082,
+            "banco": "Banco Volvo Brasil S.A.",
+            "Compensacao": "",
+            "Homepage": "Não possui site"
+        },
+        {
+            "id_banco": 104055,
+            "banco": "Banco Votorantim S.A.",
+            "Compensacao": "655",
+            "Homepage": "www.bancovotorantim.com.br"
+        },
+        {
+            "id_banco": 104038,
+            "banco": "Banco VR S.A.",
+            "Compensacao": "610",
+            "Homepage": "www.vrinvestimentos.com.br"
+        },
+        {
+            "id_banco": 105563,
+            "banco": "Banco Western Union do Brasil S.A.",
+            "Compensacao": "119",
+            "Homepage": "www.bancowesternunion.com.br"
+        },
+        {
+            "id_banco": 105913,
+            "banco": "Banco XP S.A.",
+            "Compensacao": "102",
+            "Homepage": ""
+        },
+        {
+            "id_banco": 105518,
+            "banco": "Banco Yamaha Motor do Brasil S.A.",
+            "Compensacao": "",
+            "Homepage": "www.yamaha-motor.com.br"
+        },
+        {
+            "id_banco": 103926,
+            "banco": "BANESTES S.A. Banco do Estado do Espírito Santo",
+            "Compensacao": "021",
+            "Homepage": "www.banestes.com.br"
+        },
+        {
+            "id_banco": 104925,
+            "banco": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
+            "Compensacao": "755",
+            "Homepage": "www.ml.com"
+        },
+        {
+            "id_banco": 103991,
+            "banco": "BCV - Banco de Crédito e Varejo S.A.",
+            "Compensacao": "250",
+            "Homepage": "www.bancobcv.com.br"
+        },
+        {
+            "id_banco": 105634,
+            "banco": "BEXS Banco de Câmbio S.A.",
+            "Compensacao": "144",
+            "Homepage": "www.bexs.com.br"
+        },
+        {
+            "id_banco": 105586,
+            "banco": "BNY Mellon Banco S.A.",
+            "Compensacao": "017",
+            "Homepage": "www.bnymellon.com.br"
+        },
+        {
+            "id_banco": 103952,
+            "banco": "BRB - Banco de Brasília S.A.",
+            "Compensacao": "070",
+            "Homepage": "www.brb.com.br"
+        },
+        {
+            "id_banco": 103953,
+            "banco": "Caixa Econômica Federal",
+            "Compensacao": "104",
+            "Homepage": "www.caixa.gov.br"
+        },
+        {
+            "id_banco": 104002,
+            "banco": "China Construction Bank (Brasil) Banco Múltiplo S.A.",
+            "Compensacao": "320",
+            "Homepage": "www.br.ccb.com"
+        },
+        {
+            "id_banco": 104024,
+            "banco": "Citibank N.A.",
+            "Compensacao": "477",
+            "Homepage": "www.citibank.com"
+        },
+        {
+            "id_banco": 104027,
+            "banco": "Deutsche Bank S.A. - Banco Alemão",
+            "Compensacao": "487",
+            "Homepage": "www.deutsche-bank.com.br"
+        },
+        {
+            "id_banco": 103947,
+            "banco": "Hipercard Banco Múltiplo S.A.",
+            "Compensacao": "062",
+            "Homepage": "www.hipercard.com.br"
+        },
+        {
+            "id_banco": 105845,
+            "banco": "HSBC Brasil S.A. - Banco de Investimento",
+            "Compensacao": "269",
+            "Homepage": ""
+        },
+        {
+            "id_banco": 104029,
+            "banco": "ING Bank N.V.",
+            "Compensacao": "492",
+            "Homepage": "www.ing.com"
+        },
+        {
+            "id_banco": 104003,
+            "banco": "Itaú Unibanco S.A.",
+            "Compensacao": "341",
+            "Homepage": "www.itau.com.br"
+        },
+        {
+            "id_banco": 104028,
+            "banco": "JPMorgan Chase Bank, National Association",
+            "Compensacao": "488",
+            "Homepage": "www.jpmorganchase.com"
+        },
+        {
+            "id_banco": 104015,
+            "banco": "Kirton Bank S.A. - Banco Múltiplo",
+            "Compensacao": "399",
+            "Homepage": ""
+        },
+        {
+            "id_banco": 105633,
+            "banco": "MS Bank S.A. Banco de Câmbio",
+            "Compensacao": "128",
+            "Homepage": "www.msbank.com.br"
+        },
+        {
+            "id_banco": 103993,
+            "banco": "Paraná Banco S.A.",
+            "Compensacao": "254",
+            "Homepage": "www.paranabanco.com.br"
+        },
+        {
+            "id_banco": 105542,
+            "banco": "Scania Banco S.A.",
+            "Compensacao": "",
+            "Homepage": "www.scaniabanco.com.br"
+        },
+        {
+            "id_banco": 104075,
+            "banco": "Scotiabank Brasil S.A. Banco Múltiplo",
+            "Compensacao": "751",
+            "Homepage": "www.br.scotiabank.com"
+        },
+        {
+            "id_banco": 105578,
+            "banco": "Travelex Banco de Câmbio S.A.",
+            "Compensacao": "095",
+            "Homepage": "www.bancoconfidence.com.br"
+        },
+        {
+            "id_banco": 105589,
+            "banco": "UBS Brasil Banco de Investimento S.A.",
+            "Compensacao": "129",
+            "Homepage": "www.ubs.com"
+        }
+    ],
+    "TituloTabela": "Bancos Associados",
+    "Busca": null,
+    "FiltroAssociado": null
+}
