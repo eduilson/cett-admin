@@ -76,7 +76,7 @@ const General = (props: Props) => {
             <Form.Item
                 name='completion_time'
                 label='Conclusão'
-                extra='Tempo máximo de conclusão'>
+                extra='Tempo máximo de conclusão em dias'>
                 <InputNumber size='large'/>
             </Form.Item>
             <Form.Item

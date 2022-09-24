@@ -11,7 +11,7 @@ import {
     TablePaginationConfig
 } from 'antd'
 
-import {PlusOutlined} from '@ant-design/icons'
+import {DownloadOutlined, PlusOutlined} from '@ant-design/icons'
 
 import Layout from '@/components/Layout'
 import PageHeader from '@/components/PageHeader'
@@ -64,6 +64,7 @@ const Index = ({user}: Props) => {
     const [order_status, setOrderStatus] = React.useState<OrderStatus[]>([])
     const [pagination, setPagination] = React.useState({})
     const [accounts, setAccounts] = React.useState<Account[]>([])
+    const [filters, setFilters] = React.useState<string>('')
 
     React.useEffect(() => {
         globalContext.user.set(user)
@@ -99,9 +100,10 @@ const Index = ({user}: Props) => {
 
     const fetchOrders = async (pagination: TablePaginationConfig, filters = {}) => {
         setLoading(true)
-        filters = parseFilters(filters)
+        const parsedFilters = parseFilters(filters)
+        setFilters(parsedFilters)
         try{
-            const url = `admin/orders?page=${pagination.current}&per_page=${pagination.pageSize}&${filters}`
+            const url = `admin/orders?page=${pagination.current}&per_page=${pagination.pageSize}&${parsedFilters}`
             const {data, total, per_page, page} = (await Request(user.jwt.access_token).get(url)).data
             setData(data.map((row: Order) => ({...row, key: row.id})))
             setPagination({current: page, pageSize: per_page, total})
@@ -227,6 +229,12 @@ const Index = ({user}: Props) => {
             <PageHeader
                 title="Matrículas"
                 extra={[
+                    <Button
+                        onClick={() => {
+                            window.open( process.env.NEXT_PUBLIC_API_URL + `admin/orders-exports?token=${user.jwt.access_token}&${filters}` )
+                        }}
+                        key="export"
+                        icon={<DownloadOutlined />} type='ghost'>Exportar</Button>,
                     <Link href='/orders/add' key='add' passHref>
                         <Button icon={<PlusOutlined/>} type='primary'>Nova matrícula</Button>
                     </Link>

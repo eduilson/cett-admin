@@ -145,7 +145,8 @@ const Edit = ({ user, id }: Props) => {
           */}
           <Form.Item
             name='image'
-            label='Imagem'>
+            label='Imagem'
+            extra='1920x600'>
             <Upload />
           </Form.Item>
           <Form.Item

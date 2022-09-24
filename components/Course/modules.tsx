@@ -10,10 +10,13 @@ import {
 
 import {
     PlusOutlined,
-    EditOutlined, DeleteOutlined,
+    EditOutlined,
+    DeleteOutlined,
 } from '@ant-design/icons'
 
 import Module from './module'
+import Copy from "./module/copy";
+
 import GlobalContext from "@/utils/globalContext";
 import Request from "@/utils/request";
 
@@ -149,7 +152,17 @@ const Modules = (props: Props) => {
                 onChange={fetchData}
             />
 
-            <Space style={{width: "100%", justifyContent: "flex-end", marginTop: 16}}>
+            <Space style={{width: "100%", justifyContent: "space-between", marginTop: 16}}>
+
+                <Copy
+                    courseId={courseId}
+                    onInit={() => setLoading(true)}
+                    onFinish={() => {
+                        setLoading(false)
+                        fetchData(pagination, {})
+                    }}
+                />
+
                 <Button
                     onClick={() => setShowForm(true)}
                     danger type="text"

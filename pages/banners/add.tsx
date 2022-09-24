@@ -122,7 +122,8 @@ const Add = ({ user }: Props) => {
           <Form.Item
             name='image'
             label='Imagem'
-            rules={[{required: true, message: 'Esse campo é obrigatório!'}]}>
+            rules={[{required: true, message: 'Esse campo é obrigatório!'}]}
+            extra='1920x600'>
             <Upload accept="image/*" />
           </Form.Item>
           <Form.Item

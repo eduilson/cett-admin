@@ -3,21 +3,21 @@ import React from 'react'
 import {
     Form,
     Button,
-    Divider,
+    //Divider,
     Select,
     Mentions,
     Switch,
     InputNumber,
     Tabs,
-    Input,
-    Row,
-    Col,
+    //Input,
+    //Row,
+    //Col,
     Space,
     Drawer,
     Spin,
 } from 'antd'
 
-import Sliders from './sliders'
+//import Sliders from './sliders'
 
 import Upload from "@/components/Upload"
 import Wysiwyg from "@/components/Wysiwyg"
@@ -138,6 +138,7 @@ const State = ({onClose, visible, courseId, courseStateId}: Props) => {
                                 <Switch checkedChildren='Ativo' unCheckedChildren='Inativo'/>
                             </Form.Item>
                         </Tabs.TabPane>
+                        { /* }
                         <Tabs.TabPane tab='Sliders' key='sliders' forceRender>
                             <Form.Item
                                 label='Título'
@@ -162,6 +163,7 @@ const State = ({onClose, visible, courseId, courseStateId}: Props) => {
                                 </Col>
                             </Row>
                         </Tabs.TabPane>
+                        { */ }
                     </Tabs>
                 </Form>
             </Spin>
